@@ -1,0 +1,7 @@
+*.meta
+*.asset
+*.unity
+*.lighting
+TutorialInfo/
+Settings/
+Scenes/
